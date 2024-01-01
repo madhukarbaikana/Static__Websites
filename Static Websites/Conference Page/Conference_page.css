@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.home-page-image {
+    height: 50vh;
+    background-size: cover;
+    width: 100vw;
+}
+
+.conference-sction {
+    padding: 20px;
+}
+
+.confirence-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.confirence-tagline {
+    color: #5a7184;
+    font-size: 20px;
+    font-family: "Roboto";
+    margin-top: 20px;
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+    margin: 20px;
+}
+
+.conference-detail-section2 {
+    padding: 10px;
+}
+
+.conference-detail-page-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+.conference-detail-page-tagline {
+    color: #5a7184;
+    font-size: 20px;
+    font-family: "Roboto";
+    text-align: center;
+}
+
+.container1 {
+    margin-top: 10px;
+}
+
+.disk1 {
+    margin-left: 30px;
+    margin-right: 30px;
+
+    width: 130px;
+    text-align: center;
+}
+
+.disk2 {
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 130px;
+    text-align: center;
+}
+
+.count {
+    color: #183b56;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 30px;
+
+}
+
+.count-detail {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 20px;
+
+}
+
+.button2 {
+    text-align: center;
+}
